@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Edson
+- 👀 I’m interested in Java...
+- 🌱 I’m currently learning Java...
+- 📫 How to reach me contact phone number is +55 81 995423392...
+
+<!---
+EdsJDev/EdsJDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
